@@ -1,0 +1,8 @@
+{
+  "name": "Rosetta Engine & Species Wheel",
+  "description": "A phenomenological-computational bridge translating human experience into model inference states, featuring a rotating wheel of LLM species and an attentional umwelt visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
